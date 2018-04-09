@@ -15,6 +15,10 @@ Status: Release candidate
 - **Offline Data** - Store data offline automatically with AngularFirestore.
 - **ngrx friendly** - Integrate with ngrx using AngularFire's action based APIs.
 
+### แบบฝึกหัด ###
+- [Using AngularFire with Ionic 3](docs/ionic/v3.md)
+- [โครงงานกลุ่ม ปี 2560 ม.ค.-พ.ค.2561](http://www.twachi.net/webclass/learn-home/342266/project)
+
 #### Quick links
 [Contributing](CONTRIBUTING.md)
 
